@@ -179,3 +179,13 @@ main section{
 .resume-download-cv{
     margin-top: 50px;
 }
+
+/* Footer Styles */
+footer{
+    padding: 130px 230px;
+    gap: 130px;
+    display: flex;
+}
+.footer-column{
+    width: 50%;
+}
