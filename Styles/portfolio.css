@@ -52,7 +52,7 @@
 
 /* Header */
 .header{
-    background-image: url('../images/developer.png'), url('/images/header_bg.png');
+    background-image: url('../images/developer.png'), url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: top left, bottom right;
 }
@@ -107,7 +107,8 @@ nav ul li a{
     font-weight:400;
 }
 .banner-profile-picture{
-    /* height: 676px; */
+  
+
     width: 584px;
 }
 /* Main Styles */
